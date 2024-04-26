@@ -1,4 +1,4 @@
-# Quick guide:
+# Quick guide
 
 ```bash
 # checkout this repo and enter the sbin folder in the terminal
